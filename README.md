@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# pinterested
+a ruby on rails web page build on ruby on rails and bootstrap 4
+>>>>>>> f54d5f2dc32996f6811898a5ec2d01bf1ea9f90c
